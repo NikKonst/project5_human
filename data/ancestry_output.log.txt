@@ -1,0 +1,3 @@
+PCAdmix begins
+1. Loading data...
+Error: No ancestral populations specified
